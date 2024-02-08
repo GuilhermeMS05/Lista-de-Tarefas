@@ -1,4 +1,5 @@
 https://guilhermems.me/TodoReact/dist/index.html
+
 Aplicação web frontend focada na gestão de listas de tarefas, oferecendo ao utilizador a capacidade de adicionar novas tarefas de forma intuitiva. Ao inserir o nome da tarefa e especificar a sua categoria (Trabalho, Pessoal ou Estudos), o utilizador tem a flexibilidade de personalizar e organizar as suas tarefas.
 
 Para além disso, a aplicação disponibiliza funcionalidades abrangentes para uma gestão eficiente das tarefas. O utilizador pode assinalar tarefas como concluídas, remover tarefas específicas e efetuar pesquisas pelo nome da tarefa. A implementação de opções de filtragem, como mostrar todas as tarefas, as completas, as incompletas, bem como ordenar em ordem ascendente ou descendente, proporciona uma experiência de utilizador ainda mais personalizada e adaptável.
